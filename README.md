@@ -33,7 +33,7 @@ Proyek ini merupakan implementasi sederhana dari sebuah website dengan fitur kea
 
 1. **Clone repositori** ini atau download file zip:
 ```bash
-   git clone https://github.com/username/xss-safe-website.git
+   git clone https://github.com/functionofpwnosec/XSS-Secure-System.git
 ```
 2. Konfigurasi database:
  * Buat database baru menggunakan `phpMyAdmin` atau MySQL client.
