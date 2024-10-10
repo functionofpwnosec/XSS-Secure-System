@@ -16,7 +16,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
 }
 ?>
-
 <form method="POST" action="add_comment.php">
     <textarea name="content" required></textarea>
     <input type="hidden" name="article_id" value="<?= $article_id ?>">
